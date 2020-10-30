@@ -18,3 +18,9 @@ Import the package with:
 
     from example_pkg.submodule import hello
     hello.sayHello("me")
+
+## run it
+
+To run the `__main__.py` file:
+
+    python -m example_pkg
